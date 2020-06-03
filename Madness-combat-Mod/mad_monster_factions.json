@@ -11,7 +11,7 @@
     "name": "madness_grunt",
 	"base_faction": "madness",
     "friendly": [  ],
-    "neutral": [ "denjin", "madness_agent", "human", "player", "small_animal", "fish" ],
+    "neutral": [ "madness_agent", "human", "player", "small_animal", "fish" ],
     "by_mood": [  ]
   },
   {

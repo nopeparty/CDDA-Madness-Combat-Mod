@@ -1,5 +1,14 @@
 [
  {
+    "type": "monstergroup",
+    "name": "GROUP_ZOMBIE",
+    "default": "mon_null",
+    "monsters": [
+      { "monster" : "mon_mad_grunt", "freq" : 150, "cost_multiplier" : 0, "pack_size": [1,2] },
+	  { "monster" : "mon_mad_L33T", "freq" : 100, "cost_multiplier" : 0, "pack_size": [1,2] }
+    ]
+  },
+ {
     "type":"monstergroup",
     "name" : "GROUP_ZOMBIE",
     "default" : "mon_zombie",

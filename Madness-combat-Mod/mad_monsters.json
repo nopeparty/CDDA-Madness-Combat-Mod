@@ -54,6 +54,7 @@
     "copy-from": "mon_mad_grunt",
 	"name": "grunt thug",
     "default_faction": "madness_agent",
+		"aggression": 3,
 	"anger_triggers":[ "HURT", "FRIEND_DIED", "PLAYER_CLOSE" ],
 	"fear_triggers":[ "MEAT", "FIRE" ]
   },

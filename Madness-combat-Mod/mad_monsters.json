@@ -48,6 +48,15 @@
       "PATH_AVOID_DANGER_2"
     ]
   },
+	{
+    "id": "mon_mad_grunt_thug",
+    "type": "MONSTER",
+    "copy-from": "mon_mad_grunt",
+	"name": "grunt thug",
+    "default_faction": "madness_agent",
+	"anger_triggers":[ "HURT", "FRIEND_DIED", "PLAYER_CLOSE" ],
+	"fear_triggers":[ "MEAT", "FIRE" ]
+  },
   {
     "id": "mon_mad_L33T",
     "type": "MONSTER",
